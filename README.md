@@ -18,6 +18,13 @@ Include `colors/ayu-dark-256.neomuttrc` as part of your `~/.mutt/muttrc` file.
 ## Contributing
 Send me a PR!
 
+## Resources
+
+-  [neovim-ayu](https://github.com/Shatur/neovim-ayu)
+-  [colortrans.py](https://gist.github.com/MicahElliott/719710)
+-  [ayu-colors](https://github.com/ayu-theme/ayu-colors)
+-  [neonwolf-theme](https://codeberg.org/h3xx/mutt-colors-neonwolf)
+
 ## TODO
 
 - [ ] Add Light theme
