@@ -5,6 +5,7 @@ A colorscheme for Neomutt based on [neovim-ayu](https://github.com/Shatur/neovim
 ## Screenshots
 ---
 ![dark1](screenshots/dark1.png)
+![dark4](screenshots/dark4.png)
 ![dark2](screenshots/dark2.png)
 ![dark3](screenshots/dark3.png)
 
